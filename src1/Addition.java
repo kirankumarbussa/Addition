@@ -1,4 +1,4 @@
-class Addition {
+public class Addition {
 	public static void main(String[] args) {
 		int result = addition(10,12);
 		System.out.println(result);
